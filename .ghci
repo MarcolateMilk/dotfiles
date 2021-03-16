@@ -1,0 +1,5 @@
+:set prompt "\n╭─\ESC[47;40m ghci \ESC[30;44m\xe0b0 %s \ESC[34;49m\xe0b0\ESC[m\n╰→ "
+:set prompt-cont "   "
+:set +t
+
+:seti -XOverloadedStrings

@@ -1,0 +1,102 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "Fira Code",
+    "editor.tabSize": 2,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.wordWrap": "on",
+    "editor.dragAndDrop": false,
+    "window.menuBarVisibility": "toggle",
+    "editor.letterSpacing": -0.85,
+    "editor.lightbulb.enabled": false,
+    "editor.occurrencesHighlight": false,
+    "editor.renderLineHighlight": "all",
+    "editor.roundedSelection": false,
+    "editor.smoothScrolling": true,
+    "editor.stickyTabStops": true,
+    "editor.fontLigatures": true,
+    "editor.fontWeight": 500,
+    "workbench.colorTheme": "City Lights",
+    "workbench.iconTheme": "file-icons",
+    "editor.minimap.renderCharacters": false,
+    "files.enableTrash": false,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.list.smoothScrolling": true,
+    "workbench.editor.untitled.labelFormat": "name",
+    "terminal.external.linuxExec": "alacritty",
+    "terminal.integrated.fontSize": 16,
+    "workbench.colorCustomizations": {
+        "[City Lights]": {
+            "activityBar.background": "#171d23",
+            "activityBar.border": "#1d252c",
+
+            "editorGroup.border": "#171d23",
+
+            "editorGroupHeader.tabsBorder": "#00000000",
+
+            "list.activeSelectionBackground": "#242f38",
+            "list.dropBackground": "#242f38",
+            "list.focusBackground": "#242f38",
+            "list.hoverForeground": "#718ca1",
+            "list.inactiveSelectionBackground": "#242f38",
+            "tree.indentGuidesStroke": "#242f38",
+
+            "sideBar.foreground": "#718ca1",
+            "sideBarSectionHeader.foreground": "#718ca1",
+            "sideBarTitle.foreground": "#718ca1",
+
+            "terminal.ansiBlack": "#333F4A",
+            "terminal.ansiBlue": "#5EC4FF",
+            "terminal.ansiBrightBlue": "#5EC4FF",
+            "terminal.ansiWhite": "#718CA1",
+            "terminal.ansiBrightWhite": "#B7C5D3",
+
+            "terminal.selectionBackground": "#28323a",
+            "terminal.foreground": "#b7c5d3",
+            "terminalCursor.background": "#171d23",
+            "terminalCursor.foreground": "#B7C5D3",
+        }
+    },
+    "editor.tokenColorCustomizations": {
+        "[City Lights]": {
+            "textMateRules": [
+                {
+                    "scope": [
+                        "storage.modifier.async.tsx",
+                        "storage.modifier.async.ts",
+                        "storage.modifier.async.js",
+                        "storage.modifier.async.jsx",
+                        "keyword.operator.new.js",
+                        "keyword.control.flow.js",
+                        "keyword.control.flow.jsx",
+                        "keyword.control.flow.ts",
+                        "keyword.control.flow.tsx",
+                        "storage.type.annotation.java",
+                        "storage.type.annotation.ts",
+                        "entity.name.type.ts",
+                        "storage.type.java",
+                        "support.type.primitive.ts",
+                        "support.type.primitive.tsx",
+                        "entity.name.type.ts",
+                        "entity.name.type.tsx",
+                        "support.type.primitive.ts",
+                    ],
+                    "settings": {
+                        "fontStyle": "",
+                    }
+                }
+            ]
+        }
+    },
+    "markdown.preview.fontSize": 16,
+    "debug.console.fontSize": 16,
+    "workbench.tree.indent": 16,
+    "explorer.confirmDragAndDrop": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 0,
+    "breadcrumbs.enabled": false,
+    "php-docblocker.returnGap": true,
+    "php-docblocker.useShortNames": true,
+    "editor.fontSize": 16
+}
